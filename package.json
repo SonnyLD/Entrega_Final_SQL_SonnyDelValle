@@ -1,0 +1,11 @@
+{
+  "name": "entrega_final",
+  "version": "1.0.0",
+  "description": "Entrega de proyecto final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonny Del Valle",
+  "license": "ISC"
+}
